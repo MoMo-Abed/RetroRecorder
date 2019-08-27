@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "RetroRecorder",
+    "slug": "RetroRecorder",
+    "privacy": "public",
+    "sdkVersion": "34.0.0",
+    "platforms": ["ios", "android", "web"],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "backgroundColor": "#58595B"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
